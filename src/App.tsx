@@ -1,8 +1,9 @@
+import Header from "./layout/Header"
 
 
 const App = () => {
   return (
-    <div>App</div>
+    <Header />
   )
 }
 
